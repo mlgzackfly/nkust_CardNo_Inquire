@@ -3,6 +3,17 @@
 
 如果有可以模擬RFID的東西，這會是一個人借討論室的好方法
 
+使用方法
+-
+1. 安裝套件
+`pip3 install -r requirements.txt`
+2. 輸入指令
+`python CardNo_Inquire.py`
+3. 輸入學號
+
+![](https://i.imgur.com/KtsvcwB.png)
+
+
 小說明
 -
 | key            | value    |     說明     |
