@@ -13,8 +13,8 @@
 | telephone      |          |   手機號碼   |
 | emailaddress   |          |   電子信箱   |
 | CardNo         |          |     卡號     |
-| bor_status     |          |     未知     |
-| bor_status_chi |          |     未知     |
+| bor_status     |          |     狀態     |
+| bor_status_chi |          |     狀態（中文）     |
 | bor_type       |          |     未知     |
 | bor_type_chi   |          |     未知     |
 
