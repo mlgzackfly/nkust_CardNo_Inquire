@@ -31,6 +31,4 @@
 
 姓名跟手機號碼原本是看得到的，丟 HITCON Zeroday 之後就被刪掉了
 
-我家的 IP 還被圖書館 ban 掉：）
-
 [ZD-2021-00264 國立高雄科技大學圖書館漏洞](https://zeroday.hitcon.org/vulnerability/ZD-2021-00264)
