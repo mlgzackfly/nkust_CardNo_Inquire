@@ -11,7 +11,7 @@
 `python CardNo_Inquire.py`
 3. 輸入學號
 
-![](https://i.imgur.com/KtsvcwB.png)
+![終端機的畫面](https://i.imgur.com/KtsvcwB.png)
 
 
 小說明
@@ -32,3 +32,8 @@
 姓名跟手機號碼原本是看得到的，丟 HITCON Zeroday 之後就被刪掉了
 
 [ZD-2021-00264 國立高雄科技大學圖書館漏洞](https://zeroday.hitcon.org/vulnerability/ZD-2021-00264)
+
+我的用法
+-
+之前有跟團買到 [Chameleontiny](https://chameleontiny.com/product/chameleontiny/)  
+把RFID卡號存進去，可以……
